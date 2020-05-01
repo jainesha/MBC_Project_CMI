@@ -4,3 +4,4 @@ datatype: SEG
 reference_genome_id: hg19
 description: Somatic CNA data
 data_filename:PR_Wagle_MBC_Pairs_Capture_All_Pairs.aggregated_case_sample.seg
+part2
